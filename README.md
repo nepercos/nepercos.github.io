@@ -1,2 +1,2 @@
-# teyyare.github.io
-Teyyare GitHub Blog
+# nepercos.github.io
+Nepercos Blog
